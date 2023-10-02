@@ -88,7 +88,7 @@ I also expect easy navigation on the website.
 
 Here you will find the link to my wireframes from the design phase.
 
-[Wireframes](https://github.com/hogbergmarkus/4-paws/tree/main/assets/wireframe)
+[Wireframes](https://github.com/hogbergmarkus/4-paws/tree/main/assets/wireframes)
 
 ### Fonts
 
