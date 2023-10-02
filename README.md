@@ -1,10 +1,12 @@
 # 4 Paws  
 
-4 Paws is a non-profit organization, with the goal that all cats and dogs, should be able to find their forever home.
-The website is primarily aimed at private individuals, who for some reason do not have the possibility to keep their pet.
+4 Paws is a non-profit organisation, with the goal that all cats and dogs, should be able to find their forever home.
 
-The website is useful for both dog and cat owners who need help relocating their pet,
-as well as for people who feel strongly for animals and want to donate or sign up for volunteering.
+The website is primarily aimed at private individuals, who are looking to adopt a cat or dog.
+
+Since 4 Paws is a non-profit organisation, donations and volunteers are highly important.
+
+The website is also useful for both dog and cat owners, who need help relocating their pet.
 
 ## INSERT "Am I responsive" scrrenshots here
 
@@ -14,7 +16,7 @@ as well as for people who feel strongly for animals and want to donate or sign u
   - [INSERT "Am I responsive" scrrenshots here](#insert-am-i-responsive-scrrenshots-here)
   - [Table of contents](#table-of-contents)
   - [User goals and stories](#user-goals-and-stories)
-    - [Goals of the business owner](#goals-of-the-business-owner)
+    - [Goals of the website business owner](#goals-of-the-website-business-owner)
     - [Goals of the user](#goals-of-the-user)
     - [User stories](#user-stories)
       - [Business owner](#business-owner)
@@ -42,7 +44,9 @@ as well as for people who feel strongly for animals and want to donate or sign u
 
 ## User goals and stories
 
-### Goals of the business owner
+### Goals of the website business owner
+
+The goal of this website is to help cat and dog owners who, for whatever reason, can no longer keep their pet.
 
 ### Goals of the user
 
