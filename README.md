@@ -86,6 +86,10 @@ I also expect easy navigation on the website.
 
 ### Wireframes
 
+Here you will find the link to my wireframes from the design phase.
+
+[Wireframes](https://github.com/hogbergmarkus/4-paws/tree/main/assets/wireframe)
+
 ### Fonts
 
 ### Colors
