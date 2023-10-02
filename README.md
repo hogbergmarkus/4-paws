@@ -46,17 +46,41 @@ The website is also useful for both dog and cat owners, who need help relocating
 
 ### Goals of the website business owner
 
-The goal of this website is to help cat and dog owners who, for whatever reason, can no longer keep their pet.
+- The goals of the owner is to find new homes for cats and dogs in need.
+
+- To attract donations and volunteers.
+
+- To help if someone is unable to keep their pet.
 
 ### Goals of the user
+
+- The user wants to easily view animals available for adoption.
+
+- Easy navigation between pages is important.
+
+- Being able to view the contents of the website on different devices.
+
+- The form for adopting a pet must be easy to understand and fill out.
 
 ### User stories
 
 #### Business owner
 
+As the owner of 4 Paws, I want to reach more people to increase chance of adoption.
+
+I want a way to show poeople how they can help, and get in touch with us.
+
 #### General user
 
+As a general user I expect to find links to social media for news and updates.
+
+I also want easy navigation to the "cats & dogs" page, to view potential pets to adopt.
+
 #### New user
+
+As a new user, I expect it to be easy to read some information about 4 Paws.
+
+I also expect easy navigation on the website.
 
 ## Design
 
