@@ -77,6 +77,21 @@ main {
     margin-top: 43px;
 }
 
+/* Hero section */
+#hero {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#hero-image {
+    width: 90vw;
+    height: 90vw;
+    border-radius: 50%;
+    background-color: coral;
+    justify-content: center;
+}
+
 /* Footer */
 footer {
     background-color: coral;
