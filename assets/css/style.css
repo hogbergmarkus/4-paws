@@ -73,6 +73,7 @@ nav {
 main {
     background-color: lightblue;
     flex: 1 0 auto;
+    /* This is added to push main content down under fixed header */
     margin-top: 43px;
 }
 
