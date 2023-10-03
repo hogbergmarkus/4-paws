@@ -18,6 +18,8 @@ body {
 /* Header */
 header {
     background-color: lightgreen;
+    border-radius: 10px;
+    min-height: 5vh;
 }
 
 /* Main */
