@@ -26,6 +26,9 @@ header {
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
 }
 
 header a {
@@ -39,6 +42,30 @@ header a {
 
 .active {
     border-bottom: 1px solid;
+}
+
+/* Navbar styles with dropdown toggle */
+nav {
+    position: absolute;
+    background-color: white;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    display: none;
+    top: 100%;
+}
+
+/* Nav toggle */
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
 }
 
 /* Main */
