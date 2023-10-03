@@ -20,7 +20,6 @@ body {
 /* Header */
 header {
     background-color: #ffffff;
-    min-height: 42px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
