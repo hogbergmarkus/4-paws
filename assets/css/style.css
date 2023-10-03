@@ -28,6 +28,15 @@ header {
     align-items: center;
 }
 
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu li {
+    list-style-type: none;
+}
+
 /* Main */
 main {
     background-color: lightblue;
