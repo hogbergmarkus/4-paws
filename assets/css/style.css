@@ -19,7 +19,7 @@ body {
 
 /* Header */
 header {
-    background-color: lightgreen;
+    background-color: #ffffff;
     border-radius: 10px;
     min-height: 5vh;
     display: flex;
@@ -29,6 +29,7 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
+    padding: 0 10px 0 10px;
 }
 
 header a {
