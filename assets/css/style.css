@@ -3,6 +3,7 @@
 
 /* Body */
 body {
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
 }
@@ -15,7 +16,7 @@ header {
 /* Main */
 main {
     background-color: lightblue;
-    
+    flex: 1 0 auto;
 }
 
 /* Footer */
