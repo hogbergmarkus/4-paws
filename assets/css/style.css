@@ -85,6 +85,8 @@ main {
 #hero-image {
     width: 90vw;
     height: 90vw;
+    max-width: 700px;
+    max-height: 700px;
     border-radius: 50%;
     background-color: coral;
     background-image: url('../images/pexels-helena-jankovičová-kováčová-16395150.jpg');
