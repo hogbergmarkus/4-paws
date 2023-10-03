@@ -87,6 +87,9 @@ main {
     height: 90vw;
     border-radius: 50%;
     background-color: coral;
+    background-image: url('../images/pexels-helena-jankovičová-kováčová-16395150.jpg');
+    background-position: center;
+    background-size: 180%;
     justify-content: center;
 }
 
