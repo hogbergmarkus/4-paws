@@ -1,7 +1,7 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&display=swap');
 
-/* Overrides default styles added by browser, should be easier to style */
+/* Overrides default styles added by browser, should be easier to style with these values */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -20,6 +20,10 @@ header {
     background-color: lightgreen;
     border-radius: 10px;
     min-height: 5vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
 }
 
 /* Main */
