@@ -123,6 +123,16 @@ main {
     padding-bottom: 10px;
 }
 
+/* About section */
+.about {
+    padding: 10px 10px 10px;
+    text-align: center;
+    border: 2px solid rgb(2, 73, 37);
+}
+
+.about-us {
+    padding: 10px 5px;
+}
 
 /* Footer */
 footer {
