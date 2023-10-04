@@ -123,3 +123,21 @@ Here you will find the link to my wireframes from the design phase.
 ## Unfixed bugs
 
 ## Credits
+
+README.md structure was heavily influnced by siobhanlgorman, and the specific project Sourdough-Bakes
+<https://github.com/siobhanlgorman/Sourdough-Bakes/blob/master/README.md>
+
+Navigation element was created with the help of the Love Running running walkthrough project.
+
+Icons used were taken from <https://fontawesome.com/>
+
+Favicon was created using <https://favicon.io/>
+
+Images was taken from <https://www.pexels.com/>
+
+This image compressor tool was used <https://shortpixel.com/online-image-compression>
+
+Images:
+
+Hero image:
+Bild av Helena Jankovičová Kováčová: <https://www.pexels.com/sv-se/foto/hund-sitter-djur-husdjur-16395150/>
