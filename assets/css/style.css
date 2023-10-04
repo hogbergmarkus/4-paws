@@ -24,7 +24,8 @@ body {
 
 /* Header */
 header {
-    background-color: #ffffff;
+    background-color: rgba(2, 73, 37, 0.8);
+    color: #ffffff;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -52,7 +53,7 @@ header a {
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: white;
+    background-color: rgb(#f2f6f5);
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -75,7 +76,7 @@ nav {
 
 /* Main */
 main {
-    background-color: #ffffff;
+    background-color: #f2f6f5;
     flex: 1 0 auto;
     /* This is added to push main content down under fixed header */
     margin-top: 47px;
@@ -147,6 +148,10 @@ main {
     max-height: 300px;
     background-size: 50%;
     background-image: url('../images/_e18e61bc-945a-4916-b751-147c5f311fc2.jpg');
+}
+
+.hidden {
+    display: none;
 }
 
 /* Footer */
