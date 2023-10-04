@@ -141,11 +141,11 @@ Icons used were taken from <https://fontawesome.com/>
 
 Favicon was created using <https://favicon.io/>
 
-Images was taken from <https://www.pexels.com/>
-
 This image compressor tool was used <https://shortpixel.com/online-image-compression>
 
-Images:
+Images taken from :
 
 Hero image:
-Bild av Helena Jankovičová Kováčová: <https://www.pexels.com/sv-se/foto/hund-sitter-djur-husdjur-16395150/>
+Picture by Helena Jankovičová Kováčová: <https://www.pexels.com/sv-se/foto/hund-sitter-djur-husdjur-16395150/>
+
+I created the footprints image using Bing chat AI.
