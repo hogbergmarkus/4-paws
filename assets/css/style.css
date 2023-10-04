@@ -101,10 +101,28 @@ main {
 /* Hero text */
 .hero-text {
     display: flex;
+    flex: 1;
     flex-direction: column;
     align-items: center;
     justify-content: flex-end;
 }
+
+.hero-text h2, .hero-text h3 {
+    background-color: rgba(2, 73, 37, 0.8);
+    align-self: stretch;
+    text-align: center;
+    font-size: 150%;
+    color: #ffffff;
+}
+
+.hero-text h2 {
+    padding: 10px;
+}
+
+.hero-text h3 {
+    padding-bottom: 10px;
+}
+
 
 /* Footer */
 footer {
