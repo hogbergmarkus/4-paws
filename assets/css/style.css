@@ -139,6 +139,16 @@ main {
     padding: 10px 5px;
 }
 
+/* Footprints image */
+.footprints-image {
+    height: 80px;
+    width: 90%;
+    max-width: 700px;
+    max-height: 300px;
+    background-size: 50%;
+    background-image: url('../images/_e18e61bc-945a-4916-b751-147c5f311fc2.jpg');
+}
+
 /* Footer */
 footer {
     background-color: coral;
