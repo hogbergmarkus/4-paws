@@ -120,6 +120,14 @@ Here you will find the link to my wireframes from the design phase.
 
 ## Bugs
 
+![Bug 1](assets/images/bug-1.png)
+
+I have not been able to get rid of this bug. The green banner on the hero image should have rounded corners.
+
+However the div that the banner is placed inside, stretches in a way that makes rounded corners not work.
+
+If time allows it, I will work more on this bug.
+
 ## Unfixed bugs
 
 ## Credits
