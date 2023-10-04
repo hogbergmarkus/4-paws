@@ -73,7 +73,8 @@ main {
     background-color: #ffffff;
     flex: 1 0 auto;
     /* This is added to push main content down under fixed header */
-    margin-top: 43px;
+    margin-top: 47px;
+    padding-top: 10px;
 }
 
 /* Hero section */
