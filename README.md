@@ -137,6 +137,8 @@ README.md structure was heavily influnced by siobhanlgorman, and the specific pr
 
 Navigation element was created with the help of the Love Running running walkthrough project.
 
+Thank you to, David Calikes at Code Institute, for great moral support and encouragement.
+
 Icons used were taken from <https://fontawesome.com/>
 
 Favicon was created using <https://favicon.io/>
