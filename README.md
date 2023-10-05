@@ -108,6 +108,8 @@ A dark green rgba(2, 73, 37, 0.8), was chosen for the header, footer, borders an
 
 ### Text
 
+All text was written by myself.
+
 ## Features
 
 ### Existing features
