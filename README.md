@@ -92,6 +92,12 @@ Here you will find the link to my wireframes from the design phase.
 
 ### Fonts
 
+The fonts chosen were "Lato" and a backup sans-serif.
+
+Lato was chosen because it is easy to read, and it has a friendly look.
+
+sans-serif is a great backup because of its wide support across devices and browsers.
+
 ### Colors
 
 ### Images
