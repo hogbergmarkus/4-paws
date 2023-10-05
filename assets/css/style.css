@@ -187,3 +187,25 @@ footer {
     padding: 10px 0;
     color: #ffffff;
 }
+
+/* Media query for tablets and larger screens (768px and larger) */
+@media screen and (min-width: 768px) {
+    nav {
+        display: block;
+        position: relative;
+        width: fit-content;
+        background-color: rgba(2, 73, 37, 0);
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu > li {
+        padding-left: 2rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+}
