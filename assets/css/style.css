@@ -176,3 +176,15 @@ main {
 footer {
     background-color: rgba(2, 73, 37, 0.8);
 }
+
+#social {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social i {
+    font-size: 200%;
+    padding: 10px 0;
+    color: #ffffff;
+}
