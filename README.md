@@ -100,6 +100,10 @@ sans-serif is a great backup because of its wide support across devices and brow
 
 ### Colors
 
+Background color chosen for the body is an off white (#f2f6f5). It was chosen because it feels nicer to the eyes than a perfectly white background.
+
+A dark green rgba(2, 73, 37, 0.8), was chosen for the header, footer, borders and some elements. It gives some needed contrast, and it also goes along well with almost any color next to itself.
+
 ### Images
 
 ### Text
