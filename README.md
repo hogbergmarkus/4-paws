@@ -147,7 +147,7 @@ If time allows it, I will work more on this bug.
 README.md structure was heavily influnced by siobhanlgorman, and the specific project Sourdough-Bakes
 <https://github.com/siobhanlgorman/Sourdough-Bakes/blob/master/README.md>
 
-Navigation element was created with the help of the Love Running running walkthrough project.
+Navigation element was created with the help of the Love Running running walkthrough project. I also took inspiration for the footer from Love running.
 
 Thank you to, David Calikes at Code Institute, for great moral support and encouragement.
 
@@ -162,4 +162,5 @@ Images taken from :
 Hero image:
 Picture by Helena Jankovičová Kováčová: <https://www.pexels.com/sv-se/foto/hund-sitter-djur-husdjur-16395150/>
 
+Footprints image:
 I created the footprints image using Bing chat AI.
