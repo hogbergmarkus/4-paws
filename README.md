@@ -30,6 +30,11 @@ The website is also useful for both dog and cat owners, who need help relocating
     - [Text](#text)
   - [Features](#features)
     - [Existing features](#existing-features)
+      - [Hero image](#hero-image)
+      - [Navigation bar](#navigation-bar)
+      - [Footprints image](#footprints-image)
+      - [Links on the page](#links-on-the-page)
+      - [Footer](#footer)
     - [Features to add inte the future](#features-to-add-inte-the-future)
   - [Languages](#languages)
   - [Technologies Used](#technologies-used)
@@ -113,6 +118,31 @@ All text was written by myself.
 ## Features
 
 ### Existing features
+
+#### Hero image
+
+- The first thing your eyes will be drawn to is the circular hero image, with a banner asking if you want to adopt a pet.
+
+#### Navigation bar
+
+- Navigation bar in the top right of the screen that is accessible from all pages.
+- On mobile, the navigation bar is a hamburger icon, to save screen realestate.
+- On larger devices the navigation is always visible for easier navigation.
+- The page that you are currently on, will be underlined to avoid confusion.
+- The organisation logo is also clickable, and will take the user back to the home page.
+- When you need to scroll on the page, the navigation bar will allways stay at the top of the screen, for easy navigation.
+
+#### Footprints image
+
+- On the main page is an image of a dogs footprints across the screen, this should provide some enjoyment and a visual break from all the text.
+
+#### Links on the page
+
+- There is a link to Facebook, in the contribute section on the main page, with aria-label, that will open in a new tab.
+
+#### Footer
+
+- The footer contains links to social media, all with aria-labels, and opens in a new tab.
 
 ### Features to add inte the future
 
