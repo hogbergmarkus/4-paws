@@ -258,10 +258,6 @@ footer {
         justify-content: space-evenly;
     }
 
-    #hero-image {
-        
-    }
-
     .hero-section {
         align-self: center;
     }
@@ -289,3 +285,4 @@ footer {
         bottom: 0;
         width: 100vw;
     }
+}
