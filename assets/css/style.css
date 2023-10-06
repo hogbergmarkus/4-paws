@@ -56,7 +56,7 @@ nav {
     background-color: rgba(2, 73, 37, 0.8);
     width: 100%;
     left: 0;
-    padding: 0 1rem;
+    padding: 5px 1rem;
     display: none;
     top: 100%;
 }
