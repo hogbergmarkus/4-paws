@@ -209,3 +209,49 @@ footer {
         display: none;
     }
 }
+
+/* Media query for laptops (992px and larger) */
+@media screen and (min-width: 992px) {
+    
+}
+
+
+/* Media query for desktop and larger screens (1450px and larger) */
+@media screen and (min-width: 1200px) {
+    .large-screen {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .contribute-here {
+        max-width: 40vw;
+        align-self: center;
+    }
+
+    .contribute {
+        min-height: 280px;
+        align-items: center;
+    }
+
+    .about-us {
+        margin-bottom: 104px;
+    }
+
+    #hero-image {
+        max-height: 680px;
+        max-width: 680px;
+    }
+
+    .footprints-section {
+        position: fixed;
+        bottom: 52px;
+        width: 100vw;
+    }
+
+    footer {
+        background-color: rgba(2, 73, 37, 0.8);
+        position: fixed;
+        bottom: 0;
+        width: 100vw;
+    }
+}
