@@ -42,7 +42,7 @@ The website is also useful for both dog and cat owners, who need help relocating
     - [Validation](#validation)
     - [Responsiveness](#responsiveness)
     - [Manual testing](#manual-testing)
-  - [Deplyment](#deplyment)
+  - [Deployment](#deployment)
   - [Bugs](#bugs)
   - [Unfixed bugs](#unfixed-bugs)
   - [Credits](#credits)
@@ -162,7 +162,18 @@ JavaScript taken from [Font Awesome](https://fontawesome.com/) is used for the i
 
 ### Manual testing
 
-## Deplyment
+## Deployment
+
+The website was deployed to GitHub pages, using the following steps:
+
+- From my GitHub 4-paws repository I clicked settings
+- On the lefthand side, under code and automation, I clicked Pages
+- Under Build and deployment, I set the source to, Deploy from a branch
+- Under Branch, I selected main and set folder to / (root)
+- Under Branch I clicked save.
+- On the right side is a tab called Deployments, select Deployments
+- Under active deployments is the link to my website
+- [4-Paws](https://hogbergmarkus.github.io/4-paws/)
 
 ## Bugs
 
