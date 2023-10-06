@@ -150,7 +150,7 @@ All text was written by myself.
 
 HTML and CSS are the main languages used.
 
-JavaScript taken from https://fontawesome.com/ is used for the icons on the website.
+JavaScript taken from [Font Awesome](https://fontawesome.com/) is used for the icons on the website.
 
 ## Technologies Used
 
