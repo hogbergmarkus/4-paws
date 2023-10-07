@@ -109,6 +109,8 @@ Background color chosen for the body is an off white (#f2f6f5). It was chosen be
 
 A dark green rgba(2, 73, 37, 0.8), was chosen for the header, footer, borders and some elements. It gives some needed contrast, and it also goes along well with almost any color next to itself.
 
+On dark green backgrounds the text is white, and on white backgrounds the text is black, this to keep a good contrast between text and background.
+
 ### Images
 
 ### Text
