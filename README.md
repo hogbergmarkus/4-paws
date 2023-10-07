@@ -175,6 +175,14 @@ JavaScript taken from [Font Awesome](https://fontawesome.com/) is used for the i
 
 ## Technologies Used
 
+- [Balsamiq](https://balsamiq.com/) was used to design the wireframes for the project.
+- [Codeanywhere](https://codeanywhere.com/) cloud based IDE was used.
+- [GitHub](https://github.com/) was used for version control, documentation and deployment.
+- [Shortpixel](https://shortpixel.com/) online image compression tool.
+- [Google Fonts](https://fonts.google.com/) imported styles for text.
+- [Google](https://www.google.com/) to look for tools, pictures and search for information.
+- [Slack](https://slack.com/) for communication with mentor and class mates.
+
 ## Testing
 
 ### Validation
