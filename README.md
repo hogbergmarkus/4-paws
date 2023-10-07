@@ -181,6 +181,22 @@ JavaScript taken from [Font Awesome](https://fontawesome.com/) is used for the i
 
 ### Responsiveness
 
+Testing of features and responsiveness took place throughout the development.
+
+Main devices tested on were:
+
+- Samsung Galaxy Fold
+- iPhone 12 Pro
+- iPad
+- iPad Pro
+- Testing was also done for various larger screen sizes, to make sure it would look good on both laptops and larger monitors.
+
+After deploying the website to GitHub pages, testing was continued on the same devices, but also on:
+
+- Iphone 15 Pro
+- An actual iPad Pro
+- Desktop monitor
+
 ### Manual testing
 
 ## Deployment
