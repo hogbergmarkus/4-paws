@@ -132,27 +132,38 @@ All text was written by myself.
 #### Hero image
 
 - The first thing your eyes will be drawn to is the circular hero image, with a banner asking if you want to adopt a pet.
+- This is both visually appealing and directs the user towards the main objective the website, adoption of pets.
+- ![Hero image](assets/images/hero-image-readme.png)
 
 #### Navigation bar
 
 - Navigation bar in the top right of the screen that is accessible from all pages.
 - On mobile, the navigation bar is a hamburger icon, to save screen realestate.
+- ![Nav bar hamburger](assets/images/nav-bar-expand.png)
 - On larger devices the navigation is always visible for easier navigation.
 - The page that you are currently on, will be underlined to avoid confusion.
 - The organisation logo is also clickable, and will take the user back to the home page.
 - When you need to scroll on the page, the navigation bar will allways stay at the top of the screen, for easy navigation.
+- ![Multiple nav bar images](assets/images/nav-area.png)
+- As a whole this should make navigation on the website easy for users.
 
 #### Footprints image
 
 - On the main page is an image of a dogs footprints across the screen, this should provide some enjoyment and a visual break from all the text.
+- On larger screens, the image is placed above the footer instead, this is because it looked out of place in the middle of the screen, on large screens.
+- ![Footprints screenshots](assets/images/footprints-screenshot.png)
 
 #### Links on the page
 
 - There is a link to Facebook, in the contribute section on the main page, with aria-label, that will open in a new tab.
+- This will be of service to users that come across information in the text, and want to go straight to Facebook without extra steps.
+- ![Link in text to Facebook](assets/images/link-in-text.png)
 
 #### Footer
 
 - The footer contains links to social media, all with aria-labels, and opens in a new tab.
+- This is useful to users who want to follow 4-paws actively, and see updates on activities.
+- ![Footer screenshot](assets/images/footer-screenshot.png)
 
 ### Features to add inte the future
 
