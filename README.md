@@ -187,6 +187,12 @@ JavaScript taken from [Font Awesome](https://fontawesome.com/) is used for the i
 
 ### Validation
 
+[W3C Markup valitadion service](https://validator.w3.org/#validate_by_input) was used multiple times for the HTML code.
+
+[W3C CSS validation service](https://jigsaw.w3.org/css-validator/#validate_by_input) was used multiple times for the CSS code.
+
+Lighthouse in Chrome developer tools was also used to check for problems on multiple occations.
+
 ### Responsiveness
 
 Testing of features and responsiveness took place throughout the development.
