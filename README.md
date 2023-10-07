@@ -115,6 +115,12 @@ On dark green backgrounds the text is white, and on white backgrounds the text i
 
 ### Images
 
+All images, except the footprints image, were downloaded from [Pexels.com](https://www.pexels.com/).
+
+The footprints image was created by me using the Bing chat AI [Bing.com](https://www.bing.com/).
+
+They were optimized using the compressor tool on [Shortpixel.com](https://shortpixel.com/online-image-compression).
+
 ### Text
 
 All text was written by myself.
