@@ -198,6 +198,11 @@ main {
     text-align: center;
 }
 
+#cat-heading, #dog-heading {
+    font-size: 150%;
+    padding-top: 20px;
+}
+
 /* Footer */
 footer {
     background-color: rgba(2, 73, 37, 0.8);
