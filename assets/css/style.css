@@ -257,11 +257,6 @@ footer {
     
 }
 
-/* Media query for laptops (992px and larger) */
-@media screen and (min-width: 992px) {
-    
-}
-
 
 /* Media query for desktop and larger screens (1200px and larger) */
 @media screen and (min-width: 1200px) {
@@ -346,7 +341,7 @@ footer {
         bottom: 0;
         width: 100vw;
     }
-    /* Media query animals.html 768px and larger */
+    /* Media query animals.html 1500px and larger */
     .animal-div {
         padding-bottom: 20px;
         margin: 10px;
