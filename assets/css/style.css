@@ -240,6 +240,21 @@ footer {
     .nav-toggle-label {
         display: none;
     }
+
+    /* Media query animals.html 768px and larger */
+    .animal-div {
+        padding-bottom: 20px;
+        margin: 10px;
+        width: 40vw;
+        height: auto;
+        border: 2px solid rgb(2, 73, 37);
+    }
+    
+    .animal-img {
+        max-width: 100%;
+        padding: 10px;
+    }
+    
 }
 
 /* Media query for laptops (992px and larger) */
