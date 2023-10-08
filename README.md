@@ -254,10 +254,23 @@ Favicon was created using [favicon.io](https://favicon.io/)
 
 This image compressor tool was used [Shortpixel](https://shortpixel.com/online-image-compression)
 
-Images taken from :
+Images taken from:
 
 Hero image:
-Picture by Helena Jankovičová Kováčová: [Pexels](https://www.pexels.com/sv-se/foto/hund-sitter-djur-husdjur-16395150/)
+
+- Picture by Helena Jankovičová Kováčová: [Pexels.com](https://www.pexels.com/sv-se/foto/hund-sitter-djur-husdjur-16395150/)
+
+Dogs on animals page:
+
+- Rottweiler by Alexander Nadrilyanski: [Pexels.com](https://www.pexels.com/sv-se/foto/falt-sommar-djur-hund-4488894/)
+
+- Border-collie by Helena Lopes: [Pexels.com](https://www.pexels.com/sv-se/foto/djur-hund-husdjur-ogon-1938125/)
+
+Cats on animals page:
+
+- Grey-cat by Salina Tran: [Pexels.com](https://www.pexels.com/sv-se/foto/djur-husdjur-ogon-pals-794590/)
+
+- Orange-cat by Pixabay: [Pexels.com](https://www.pexels.com/sv-se/foto/djur-husdjur-ogon-tittar-416195/)
 
 Footprints image:
 I created the footprints image using Bing chat AI. [Bing](https://bing.com/).
