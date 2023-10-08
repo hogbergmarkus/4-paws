@@ -311,22 +311,25 @@ footer {
 @media screen and (min-width: 1500px) {
     .main-div {
         display: flex;
-        justify-content: space-evenly;
+        justify-content: center;
+        align-items: center;
     }
 
     .hero-section {
-        align-self: center;
+        align-self: flex-end;
+        margin-top: 5rem;
     }
 
     .contribute-here {
         align-self: center;
         max-width: 30%;
+        margin-top: 5rem;
     }
 
     .about-us {
         align-self: center;
         max-width: 30%;
-        margin-right: 2%;
+        margin: 5rem 3% 0 0;
     }
     
     .footprints-section {
