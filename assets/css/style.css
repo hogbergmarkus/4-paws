@@ -183,12 +183,15 @@ main {
 
 .animal-div {
     padding-bottom: 20px;
+    margin-bottom: 10px;
     width: 90vw;
     height: auto;
+    border: 2px solid rgb(2, 73, 37);
 }
 
 .animal-img {
     max-width: 100%;
+    padding: 10px;
 }
 
 .animal-div p {
