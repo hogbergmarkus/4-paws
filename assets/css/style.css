@@ -172,24 +172,24 @@ main {
 }
 
 /* animals.html */
-/* Cat section */
-.cats {
+/* Styles for cat and dog section */
+.animals {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
 }
 
-.cat-div {
+.animal-div {
     padding-top: 20px;
     width: 90vw;
     height: auto;
 }
 
-.cat-img {
+.animal-img {
     max-width: 100%;
 }
 
-.cat-div p, .cat-div h4 {
+.animal-div p, .animal-div h4 {
     text-align: center;
 }
 
