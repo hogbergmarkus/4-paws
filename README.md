@@ -255,6 +255,8 @@ Navigation element was created with the help of the Love Running running walkthr
 
 Thank you to, David Calikes at Code Institute, for great moral support and encouragement.
 
+Thank you to my mentor, Jack Wachira, for giving insights and advice.
+
 Icons used were taken from [Font Awesome](https://fontawesome.com/)
 
 Favicon was created using [favicon.io](https://favicon.io/)
