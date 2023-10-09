@@ -311,6 +311,19 @@ footer {
     
 }
 
+/* Media query for laptops and larger (992px and larger) */
+/* form.html */
+@media screen and (min-width: 992px) {
+    #form-background {
+    background-image: url('../images/background-form-large.webp');
+    margin-top: 46px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+}
 
 /* Media query for desktop and larger screens (1200px and larger) */
 @media screen and (min-width: 1200px) {
