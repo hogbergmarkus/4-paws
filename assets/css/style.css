@@ -203,6 +203,13 @@ main {
     padding-top: 20px;
 }
 
+/* Styles for form.html */
+#form-background {
+    background-image: url('../images/background-form-small.webp');
+    background-size: cover;
+    background-position: center;
+}
+
 /* Footer */
 footer {
     background-color: rgba(2, 73, 37, 0.8);
