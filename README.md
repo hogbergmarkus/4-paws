@@ -162,6 +162,7 @@ All text was written by myself.
 - A hover effect is added to link elements on larger screens, where you will use a mouse for navigation.
 - This helps users visually to understand that they are hovering a link.
 - ![Hover effect](assets/images/hover-screenshots.png)
+- ![Hover logo](assets/images/hover-logo.png)
 
 #### Links on the page
 
