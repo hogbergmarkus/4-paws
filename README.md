@@ -174,6 +174,9 @@ All text was written by myself.
 
 ### Features to add inte the future
 
+- In the Cats & Dogs section, each animals picture should be clickable, to be able to view more information on that individual.
+- From each animals individual info page, there should be a link that takes you straight to the adoption form, with some pre-filled fields relating to that animal.
+
 ## Languages
 
 HTML and CSS are the main languages used.
