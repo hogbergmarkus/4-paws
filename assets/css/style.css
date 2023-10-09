@@ -211,6 +211,31 @@ main {
     background-position: center;
 }
 
+#form {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    max-width: 90%;
+    max-height: auto;
+    margin-left: 5%;
+    padding: 10px;
+    background-color: rgba(2, 73, 37, 0.6);
+}
+
+#form label {
+    max-width: 85%;
+    color: #ffffff;
+}
+
+.button {
+    font-size: large;
+}
+
+#form h2 {
+    color: #ffffff;
+}
+
 /* Footer */
 footer {
     background-color: rgba(2, 73, 37, 0.8);
