@@ -241,12 +241,16 @@ main {
 }
 
 textarea {
-    height: 120px;
+    height: 115px;
     min-width: 85%;
 }
 
 .button {
-    font-size: large;
+    font-size: x-large;
+    border: 2px solid ;
+    background-color: #ffffff;
+    color: rgb(2, 73, 37);
+    padding: 2px 5px;
 }
 
 #form h2 {
