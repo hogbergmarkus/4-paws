@@ -209,6 +209,9 @@ main {
     margin-top: 46px;
     background-size: cover;
     background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #form {
@@ -217,7 +220,6 @@ main {
     flex-direction: column;
     align-items: center;
     max-width: 90%;
-    max-height: auto;
     margin-left: 5%;
     padding: 10px;
     background-color: rgba(6, 44, 25, 0.8);
@@ -230,15 +232,17 @@ main {
 }
 
 .input-area {
-    min-width: 85%;
-    min-height: 25px;
+    max-width: 70%;
+    min-height: 30px;
     background: transparent;
     color: #ffffff;
+    font-size: larger;
     border: 2px solid #f2f6f5;
 }
 
 textarea {
-    height: 140px;
+    height: 120px;
+    min-width: 85%;
 }
 
 .button {
