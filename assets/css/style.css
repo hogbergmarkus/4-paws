@@ -241,6 +241,10 @@ footer {
         display: none;
     }
 
+    a:hover, #social i:hover {
+        color: magenta;
+    }
+
     /* Media query animals.html 768px and larger */
     .animal-div {
         padding-bottom: 20px;
