@@ -1,6 +1,8 @@
-# 4 Paws  
+# 4 Paws
 
-[4 Paws](https://hogbergmarkus.github.io/4-paws/) is a non-profit organisation, with the goal that all cats and dogs, should be able to find their forever home.
+## Introduction
+
+[4 Paws](https://hogbergmarkus.github.io/4-paws/) is a fictional website, aiming to mimic a non-profit organisation, with the goal that all cats and dogs should be able to find their forever home.
 
 The website is primarily aimed at private individuals, who are looking to adopt a cat or dog.
 
@@ -13,6 +15,7 @@ The website is also useful for both dog and cat owners, who need help relocating
 ## Table of contents
 
 - [4 Paws](#4-paws)
+  - [Introduction](#introduction)
   - [INSERT "Am I responsive" scrrenshots here](#insert-am-i-responsive-scrrenshots-here)
   - [Table of contents](#table-of-contents)
   - [User goals and stories](#user-goals-and-stories)
