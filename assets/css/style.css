@@ -220,12 +220,25 @@ main {
     max-height: auto;
     margin-left: 5%;
     padding: 10px;
-    background-color: rgba(2, 73, 37, 0.6);
+    background-color: rgba(6, 44, 25, 0.8);
 }
 
 #form label {
     max-width: 85%;
     color: #ffffff;
+    padding-bottom: 5px;
+}
+
+.input-area {
+    min-width: 85%;
+    min-height: 25px;
+    background: transparent;
+    color: #ffffff;
+    border: 2px solid #f2f6f5;
+}
+
+textarea {
+    height: 140px;
 }
 
 .button {
