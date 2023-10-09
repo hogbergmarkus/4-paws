@@ -33,6 +33,7 @@ The website is also useful for both dog and cat owners, who need help relocating
       - [Hero image](#hero-image)
       - [Navigation bar](#navigation-bar)
       - [Footprints image](#footprints-image)
+      - [Responsive links on larger screens](#responsive-links-on-larger-screens)
       - [Links on the page](#links-on-the-page)
       - [Footer](#footer)
     - [Features to add inte the future](#features-to-add-inte-the-future)
@@ -152,6 +153,12 @@ All text was written by myself.
 - On the main page is an image of a dogs footprints across the screen, this should provide some enjoyment and a visual break from all the text.
 - On larger screens, the image is placed above the footer instead, this is because it looked out of place in the middle of the screen, on large screens.
 - ![Footprints screenshots](assets/images/footprints-screenshot.png)
+
+#### Responsive links on larger screens
+
+- A hover effect is added to link elements on larger screens, where you will use a mouse for navigation.
+- This helps users visually to understand that they are hovering a link.
+- ![Hover effect](assets/images/hover-screenshots.png)
 
 #### Links on the page
 
