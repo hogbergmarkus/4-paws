@@ -290,3 +290,5 @@ Cats on animals page:
 
 Footprints image:
 I created the footprints image using Bing chat AI. [Bing](https://bing.com/).
+
+Background on the applications page, by Stocksnap, taken from [pixabay.com](https://pixabay.com/photos/dog-cat-pets-mammals-animals-2606759/)
