@@ -206,6 +206,7 @@ main {
 /* Styles for form.html */
 #form-background {
     background-image: url('../images/background-form-small.webp');
+    margin-top: 46px;
     background-size: cover;
     background-position: center;
 }
