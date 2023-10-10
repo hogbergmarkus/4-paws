@@ -103,7 +103,7 @@ main {
 }
 
 /* Hero text */
-.hero-text {
+#hero-link {
     display: flex;
     align-self: flex-end;
     max-height: 40%;
@@ -111,6 +111,11 @@ main {
     flex-direction: column;
     align-items: center;
     justify-content: flex-end;
+    text-decoration: none;
+}
+
+.hero-text {
+    min-width: 100%;
 }
 
 .hero-text h2, .hero-text h3 {
