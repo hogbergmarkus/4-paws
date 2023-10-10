@@ -145,48 +145,56 @@ All text was written by myself.
 - The first thing your eyes will be drawn to is the circular hero image, with a banner asking if you want to adopt a pet.
 - This is both visually appealing and directs the user towards the main objective the website, adoption of pets.
 - The text banner for the image is also clickable, with a visual hover, and will take the user straight to the cats & dogs page.
-- ![Hero image](documentation/screenshots/hero-image-readme.png)
+
+![Hero image](documentation/screenshots/hero-image-screenshot.png)
 
 #### Navigation bar
 
 - Navigation bar in the top right of the screen that is accessible from all pages.
 - On mobile, the navigation bar is a hamburger icon, to save screen realestate.
-- ![Nav bar hamburger](documentation/screenshots/nav-bar-expand.png)
 - On larger devices the navigation is always visible for easier navigation.
 - The page that you are currently on, will be underlined to avoid confusion.
 - The organisation logo is also clickable, and will take the user back to the home page.
 - When you need to scroll on the page, the navigation bar will allways stay at the top of the screen, for easy navigation.
-- ![Multiple nav bar images](documentation/screenshots/nav-area.png)
 - As a whole this should make navigation on the website easy for users.
+
+![Navigation area](documentation/screenshots/nav-area-screenshot.png)
 
 #### Footprints image
 
 - On the main page is an image of a dogs footprints across the screen, this should provide some enjoyment and a visual break from all the text.
 - On larger screens, the image is placed above the footer instead, this is because it looked out of place in the middle of the screen, on large screens.
-- ![Footprints screenshots](documentation/screenshots/footprints-screenshot.png)
+
+![Footprints screenshot 1](documentation/screenshots/footprint-1-screenshot.png)
+
+![Footprints screenshot 2](documentation/screenshots/footprint-2-screenshot.png)
 
 #### Responsive links on larger screens
 
 - A hover effect is added to link elements on larger screens, where you will use a mouse for navigation.
 - This helps users visually to understand that they are hovering a link.
-- ![Hover effect](documentation/screenshots/hover-links.png)
+
+![Hover effect](documentation/screenshots/link-hover-screenshot.png)
 
 #### Links on the page
 
 - There is a link to Facebook, in the contribute section on the main page, with aria-label, that will open in a new tab.
 - This will be of service to users that come across information in the text, and want to go straight to Facebook without extra steps.
-- ![Link in text to Facebook](documentation/screenshots/link-in-text.png)
+
+![Link in text to Facebook](documentation/screenshots/link-on-page-screenshot.png)
 
 #### Cats & Dogs page
 
 - This is the page where users can view what animals are available for adoption.
 - It is important that the user gets a good experience on this page, no matter device, since we want them to stay, and the page is highly responsove as it should.
 
-![Animals on tablet view](documentation/screenshots/animals-page.png)
+![Animals on mobile view](documentation/screenshots/animals-mobile-screenshot.png)
 
-![Animals on desktop view](documentation/screenshots/animals-desktop.png)
+![Animals on tablet view](documentation/screenshots/animals-tablet-screenshot.png)
 
-![Animals on desktop view](documentation/screenshots/animals-mobile.png)
+![Animals on desktop view](documentation/screenshots/animals-large-screenshot.png)
+
+![Animals on wide view](documentation/screenshots/animals-wide-screenshot.png)
 
 #### Applications page
 
@@ -194,25 +202,28 @@ All text was written by myself.
 
 - The page has responsive elements on larger screens to help users visually.
 
-- ![Responsive form elements](documentation/screenshots/form-responsive.png)
-
 - The form will prompt the user if they missed a field, or did not fill it correctly.
-
-- ![Missing info in form](documentation/screenshots/form-info.png)
 
 - If all fields are filled correctly, you will get an answer in return with information entered, example shown in this picture:
 
-- ![Formdump](documentation/screenshots/formdump.png)
+![Responsive form elements](documentation/screenshots/form-responsive-screenshot.png)
+
+![Missing info in form](documentation/screenshots/form-prompt-screenshot.png)
+
+![Formdump](documentation/screenshots/formdump.png)
 
 #### Footer
 
 - The footer contains links to social media, all with aria-labels, and opens in a new tab.
+
 - This is useful to users who want to follow 4-paws actively, and see updates on activities.
-- ![Footer screenshot](documentation/screenshots/footer-screenshot.png)
+
+![Footer screenshot](documentation/screenshots/footer-screenshot.png)
 
 ### Features to add inte the future
 
 - In the Cats & Dogs section, each animals picture should be clickable, to be able to view more information on that individual.
+
 - From each animals individual info page, there should be a link that takes you straight to the adoption form, with some pre-filled fields relating to that animal.
 
 - Adoption and relocation forms should be separate.
