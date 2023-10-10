@@ -243,7 +243,7 @@ main {
     color: #ffffff;
     font-size: larger;
     border: 2px solid #f2f6f5;
-    border-radius: 15px;
+    border-radius: 5px;
 }
 
 textarea {
