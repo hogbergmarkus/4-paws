@@ -243,6 +243,7 @@ main {
     color: #ffffff;
     font-size: larger;
     border: 2px solid #f2f6f5;
+    border-radius: 15px;
 }
 
 textarea {
@@ -256,6 +257,7 @@ textarea {
     background-color: #ffffff;
     color: rgb(2, 73, 37);
     padding: 2px 5px;
+    border-radius: 15px;
 }
 
 #form h2 {
