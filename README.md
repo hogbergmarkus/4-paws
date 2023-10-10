@@ -215,6 +215,8 @@ All text was written by myself.
 - In the Cats & Dogs section, each animals picture should be clickable, to be able to view more information on that individual.
 - From each animals individual info page, there should be a link that takes you straight to the adoption form, with some pre-filled fields relating to that animal.
 
+- Adoption and relocation forms should be separate.
+
 ## Languages
 
 HTML and CSS are the main languages used.
