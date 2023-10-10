@@ -98,7 +98,7 @@ main {
     max-width: 700px;
     max-height: 700px;
     border-radius: 50%;
-    background-color: coral;
+    background-color: black;
     background-image: url('../images/hero-image.webp');
     background-position: center;
     background-size: 180%;
@@ -296,7 +296,7 @@ footer {
     }
 
     a:hover, #social i:hover {
-        color: magenta;
+        color: rgb(229, 139, 12);
     }
 
     /* Media query animals.html 768px and larger */
@@ -315,11 +315,11 @@ footer {
 
     /* Media query form.html 768px and larger */
     .button:hover {
-        border: 2px solid magenta;
+        border: 2px solid rgb(229, 139, 12);
     }
 
     .input-area:hover {
-        border: 2px solid magenta;
+        border: 2px solid rgb(229, 139, 12);
     }
 }
 
