@@ -105,6 +105,8 @@ main {
 /* Hero text */
 .hero-text {
     display: flex;
+    align-self: flex-end;
+    max-height: 40%;
     flex: 1;
     flex-direction: column;
     align-items: center;
