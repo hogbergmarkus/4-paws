@@ -38,6 +38,8 @@ The website is also useful for both dog and cat owners, who need help relocating
       - [Footprints image](#footprints-image)
       - [Responsive links on larger screens](#responsive-links-on-larger-screens)
       - [Links on the page](#links-on-the-page)
+      - [Cats \& Dogs page](#cats--dogs-page)
+      - [Applications page](#applications-page)
       - [Footer](#footer)
     - [Features to add inte the future](#features-to-add-inte-the-future)
   - [Languages](#languages)
@@ -137,6 +139,7 @@ All text was written by myself.
 
 - The first thing your eyes will be drawn to is the circular hero image, with a banner asking if you want to adopt a pet.
 - This is both visually appealing and directs the user towards the main objective the website, adoption of pets.
+- The text banner for the image is also clickable, with a visual hover, and will take the user straight to the cats & dogs page.
 - ![Hero image](documentation/screenshots/hero-image-readme.png)
 
 #### Navigation bar
@@ -161,14 +164,40 @@ All text was written by myself.
 
 - A hover effect is added to link elements on larger screens, where you will use a mouse for navigation.
 - This helps users visually to understand that they are hovering a link.
-- ![Hover effect](documentation/screenshots/hover-screenshots.png)
-- ![Hover logo](documentation/screenshots/hover-logo.png)
+- ![Hover effect](documentation/screenshots/hover-links.png)
 
 #### Links on the page
 
 - There is a link to Facebook, in the contribute section on the main page, with aria-label, that will open in a new tab.
 - This will be of service to users that come across information in the text, and want to go straight to Facebook without extra steps.
 - ![Link in text to Facebook](documentation/screenshots/link-in-text.png)
+
+#### Cats & Dogs page
+
+- This is the page where users can view what animals are available for adoption.
+- It is important that the user gets a good experience on this page, no matter device, since we want them to stay, and the page is highly responsove as it should.
+
+![Animals on tablet view](documentation/screenshots/animals-page.png)
+
+![Animals on desktop view](documentation/screenshots/animals-desktop.png)
+
+![Animals on desktop view](documentation/screenshots/animals-mobile.png)
+
+#### Applications page
+
+- This page contains an applications form, which is important to the users that want to adopt a pet, or get help to relocate their own pet.
+
+- The page has responsive elements on larger screens to help users visually.
+
+- ![Responsive form elements](documentation/screenshots/form-responsive.png)
+
+- The form will prompt the user if they missed a field, or did not fill it correctly.
+
+- ![Missing info in form](documentation/screenshots/form-info.png)
+
+- If all fields are filled correctly, you will get an answer in return with information entered, example shown in this picture:
+
+- ![Formdump](documentation/screenshots/formdump.png)
 
 #### Footer
 
