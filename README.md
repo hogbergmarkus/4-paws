@@ -50,7 +50,8 @@ The website is also useful for both dog and cat owners, who need help relocating
     - [Manual testing](#manual-testing)
   - [Deployment](#deployment)
   - [Bugs](#bugs)
-  - [Unfixed bugs](#unfixed-bugs)
+    - [Unfixed bugs](#unfixed-bugs)
+    - [Fixed bugs](#fixed-bugs)
   - [Credits](#credits)
 
 ## User goals and stories
@@ -276,15 +277,21 @@ The website was deployed to GitHub pages, using the following steps:
 
 ## Bugs
 
+Bug 1:
+
 ![Bug 1](documentation/screenshots/bug-1.png)
 
 I have not been able to get rid of this bug. The green banner on the hero image should have rounded corners.
 
 However the div that the banner is placed inside, stretches in a way that makes rounded corners not work.
 
-If time allows it, I will work more on this bug.
+### Unfixed bugs
 
-## Unfixed bugs
+### Fixed bugs
+
+Bug 1 has been patched, and element now has rounded corners.
+
+![Bug 1](documentation/screenshots/bug-1-fixed.png)
 
 ## Credits
 
