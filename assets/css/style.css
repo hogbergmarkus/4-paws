@@ -21,6 +21,7 @@ body {
 }
 
 /* Header */
+/* THIS PART IN PARTICULAR WAS HELPED BY THE CODE FROM LOVE RUNNING */
 header {
     background-color: rgba(2, 73, 37, 0.8);
     color: #ffffff;
@@ -47,6 +48,7 @@ header a {
 .active {
     border-bottom: 1px solid;
 }
+/* THIS PART IN PARTICULAR WAS HELPED BY THE CODE FROM LOVE RUNNING */
 
 /* Navbar styles with dropdown toggle */
 nav {
