@@ -119,7 +119,7 @@ On dark green backgrounds the text is white, and on white backgrounds the text i
 
 ### Images
 
-All images, except the footprints image, were downloaded from [Pexels.com](https://www.pexels.com/).
+Images, except the footprints image, were downloaded from [Pexels.com](https://www.pexels.com/) and [pixabay.com](https://pixabay.com/), all images credited in the credits section.
 
 The footprints image was created by me using the Bing chat AI [Bing.com](https://www.bing.com/).
 
