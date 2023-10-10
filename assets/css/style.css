@@ -300,7 +300,7 @@ footer {
         display: none;
     }
 
-    a:hover, #social i:hover {
+    a:hover, #social i:hover, #hero-link:hover h2 {
         color: rgb(229, 139, 12);
     }
 
