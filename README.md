@@ -115,9 +115,13 @@ Background color chosen for the body is an off white (#f2f6f5). It was chosen be
 
 A dark green rgba(2, 73, 37, 0.8), was chosen for the header, footer, and hero banner. It gives some needed contrast, and it also goes along well with almost any color next to itself.
 
-Borders are rgb(2, 73, 37). They give a good sense of where the different sections are on the main page.
+Borders are also green, rgb(2, 73, 37). They give a good sense of where the different sections are on the main page.
 
 On dark green backgrounds the text is white, and on white backgrounds the text is black, this to keep a good contrast between text and background.
+
+Hover effects are orange, shown with the color rgb(229, 139, 12). It contrasts nicely with the pages generally green tones, and is visually pleasing.
+
+The form on the applications page has a darker green tone to make the background less distracting.
 
 ### Images
 
