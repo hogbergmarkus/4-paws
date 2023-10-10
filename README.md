@@ -97,7 +97,7 @@ I also expect easy navigation on the website.
 
 Here you will find the link to my wireframes from the design phase.
 
-[Wireframes](https://github.com/hogbergmarkus/4-paws/tree/main/assets/wireframes)
+[Wireframes](https://github.com/hogbergmarkus/4-paws/tree/main/documentation/wireframes)
 
 ### Fonts
 
@@ -137,44 +137,44 @@ All text was written by myself.
 
 - The first thing your eyes will be drawn to is the circular hero image, with a banner asking if you want to adopt a pet.
 - This is both visually appealing and directs the user towards the main objective the website, adoption of pets.
-- ![Hero image](readme-images/hero-image-readme.png)
+- ![Hero image](documentation/screenshots/hero-image-readme.png)
 
 #### Navigation bar
 
 - Navigation bar in the top right of the screen that is accessible from all pages.
 - On mobile, the navigation bar is a hamburger icon, to save screen realestate.
-- ![Nav bar hamburger](readme-images/nav-bar-expand.png)
+- ![Nav bar hamburger](documentation/screenshots/nav-bar-expand.png)
 - On larger devices the navigation is always visible for easier navigation.
 - The page that you are currently on, will be underlined to avoid confusion.
 - The organisation logo is also clickable, and will take the user back to the home page.
 - When you need to scroll on the page, the navigation bar will allways stay at the top of the screen, for easy navigation.
-- ![Multiple nav bar images](readme-images/nav-area.png)
+- ![Multiple nav bar images](documentation/screenshots/nav-area.png)
 - As a whole this should make navigation on the website easy for users.
 
 #### Footprints image
 
 - On the main page is an image of a dogs footprints across the screen, this should provide some enjoyment and a visual break from all the text.
 - On larger screens, the image is placed above the footer instead, this is because it looked out of place in the middle of the screen, on large screens.
-- ![Footprints screenshots](readme-images/footprints-screenshot.png)
+- ![Footprints screenshots](documentation/screenshots/footprints-screenshot.png)
 
 #### Responsive links on larger screens
 
 - A hover effect is added to link elements on larger screens, where you will use a mouse for navigation.
 - This helps users visually to understand that they are hovering a link.
-- ![Hover effect](readme-images/hover-screenshots.png)
-- ![Hover logo](readme-images/hover-logo.png)
+- ![Hover effect](documentation/screenshots/hover-screenshots.png)
+- ![Hover logo](documentation/screenshots/hover-logo.png)
 
 #### Links on the page
 
 - There is a link to Facebook, in the contribute section on the main page, with aria-label, that will open in a new tab.
 - This will be of service to users that come across information in the text, and want to go straight to Facebook without extra steps.
-- ![Link in text to Facebook](readme-images/link-in-text.png)
+- ![Link in text to Facebook](documentation/screenshots/link-in-text.png)
 
 #### Footer
 
 - The footer contains links to social media, all with aria-labels, and opens in a new tab.
 - This is useful to users who want to follow 4-paws actively, and see updates on activities.
-- ![Footer screenshot](readme-images/footer-screenshot.png)
+- ![Footer screenshot](documentation/screenshots/footer-screenshot.png)
 
 ### Features to add inte the future
 
@@ -243,7 +243,7 @@ The website was deployed to GitHub pages, using the following steps:
 
 ## Bugs
 
-![Bug 1](readme-images/bug-1.png)
+![Bug 1](documentation/screenshots/bug-1.png)
 
 I have not been able to get rid of this bug. The green banner on the hero image should have rounded corners.
 
