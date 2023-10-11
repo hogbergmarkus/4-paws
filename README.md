@@ -357,9 +357,15 @@ Bug 1:
 
 ![Bug 1](documentation/screenshots/bug-1.png)
 
-I have not been able to get rid of this bug. The green banner on the hero image should have rounded corners.
+The green banner on the hero image should have rounded corners.
 
 However the div that the banner is placed inside, stretches in a way that makes rounded corners not work.
+
+Bug 2:
+
+![Bug 2](documentation/screenshots/bug-2.png)
+
+Found during manual testing. The header is too close to the hero image.
 
 ### Unfixed bugs
 
