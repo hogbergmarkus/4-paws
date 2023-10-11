@@ -21,7 +21,7 @@ body {
 }
 
 /* Header */
-/* THIS PART IN PARTICULAR WAS HELPED BY THE CODE FROM LOVE RUNNING */
+/* THIS PART BELOW IN PARTICULAR WAS HELPED BY THE CODE FROM LOVE RUNNING */
 header {
     background-color: rgba(2, 73, 37, 0.8);
     color: #ffffff;
@@ -48,7 +48,7 @@ header a {
 .active {
     border-bottom: 1px solid;
 }
-/* THIS PART IN PARTICULAR WAS HELPED BY THE CODE FROM LOVE RUNNING */
+/* THIS PART ABOVE IN PARTICULAR WAS HELPED BY THE CODE FROM LOVE RUNNING */
 
 /* Navbar styles with dropdown toggle */
 nav {
@@ -309,6 +309,11 @@ footer {
         color: rgb(229, 139, 12);
     }
 
+    .hero-text h2 {
+        padding: 40px 0;
+        font-size: 200%;
+    }
+
     /* Media query animals.html 768px and larger */
     .animal-div {
         padding-bottom: 20px;
@@ -336,6 +341,13 @@ footer {
 /* Media query for laptops and larger (992px and larger) */
 /* form.html */
 @media screen and (min-width: 992px) {
+    /* index.html 992px and larger */
+    .hero-text h2 {
+        padding: 50px 0;
+        font-size: 250%;
+    }
+
+    /* form.html 992px and larger*/
     #form-background {
     background-image: url('../images/background-form-large.webp');
     margin-top: 46px;
@@ -413,7 +425,7 @@ footer {
         width: 100vw;
     }
 
-    /* Media query animals.html 768px and larger */
+    /* Media query animals.html 1200px and larger */
     .animal-div {
         padding-bottom: 20px;
         margin: 10px;
