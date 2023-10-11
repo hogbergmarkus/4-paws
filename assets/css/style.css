@@ -23,7 +23,7 @@ body {
 /* Header */
 /* THIS PART BELOW IN PARTICULAR WAS HELPED BY THE CODE FROM LOVE RUNNING */
 header {
-    background-color: rgba(2, 73, 37, 0.8);
+    background-color: rgb(2, 73, 37);
     color: #ffffff;
     display: flex;
     flex-wrap: wrap;
@@ -43,6 +43,7 @@ header a {
 
 #menu li {
     list-style-type: none;
+    margin-bottom: 5px;
 }
 
 .active {
@@ -53,7 +54,7 @@ header a {
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: rgba(2, 73, 37, 0.8);
+    background-color: rgb(2, 73, 37);
     width: 100%;
     left: 0;
     padding: 5px 1rem;
@@ -268,7 +269,7 @@ textarea {
 
 /* Footer */
 footer {
-    background-color: rgba(2, 73, 37, 0.8);
+    background-color: rgb(2, 73, 37);
 }
 
 #social {
@@ -419,7 +420,7 @@ footer {
     }
 
     footer {
-        background-color: rgba(2, 73, 37, 0.8);
+        background-color: rgb(2, 73, 37);
         position: fixed;
         bottom: 0;
         width: 100vw;
@@ -472,7 +473,7 @@ footer {
     }
     
     footer {
-        background-color: rgba(2, 73, 37, 0.8);
+        background-color: rgb(2, 73, 37);
         position: fixed;
         bottom: 0;
         width: 100vw;
