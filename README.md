@@ -1,5 +1,7 @@
 # 4 Paws
 
+![Am I responsive screenshot](documentation/screenshots/am-i-responsive-screenshot1.png)
+
 ## Introduction
 
 [4 Paws](https://hogbergmarkus.github.io/4-paws/) is a fictional website, aiming to mimic a non-profit organisation, with the goal that all cats and dogs should be able to find their forever home.
@@ -10,13 +12,10 @@ Since 4 Paws is a non-profit organisation, donations and volunteers are highly i
 
 The website is also useful for both dog and cat owners, who need help relocating their pet.
 
-## INSERT "Am I responsive" scrrenshots here
-
 ## Table of contents
 
 - [4 Paws](#4-paws)
   - [Introduction](#introduction)
-  - [INSERT "Am I responsive" scrrenshots here](#insert-am-i-responsive-scrrenshots-here)
   - [Table of contents](#table-of-contents)
   - [User goals and stories](#user-goals-and-stories)
     - [Goals of the website business owner](#goals-of-the-website-business-owner)
@@ -324,6 +323,8 @@ Icons used were taken from [Font Awesome](https://fontawesome.com/)
 Favicon was created using [favicon.io](https://favicon.io/)
 
 This image compressor tool was used [Shortpixel](https://shortpixel.com/online-image-compression)
+
+Screenshot at the top of README was created using [Am I Responsive](https://ui.dev/amiresponsive)
 
 Images taken from:
 
