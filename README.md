@@ -114,7 +114,9 @@ sans-serif is a great backup because of its wide support across devices and brow
 
 Background color chosen for the body is an off white (#f2f6f5). It was chosen because it feels nicer to the eyes than a perfectly white background.
 
-A dark green rgba(2, 73, 37, 0.8), was chosen for the header, footer, and hero banner. It gives some needed contrast, and it also goes along well with almost any color next to itself.
+A dark green rgb(2, 73, 37), was chosen for the header and footer. It gives some needed contrast, and it also goes along well with almost any color next to itself.
+
+The hero banner is set to rgba(2, 73, 37, 0.8), same as the header and footer, but with some opacity for visual effect, wich makes it pleasing to look at.
 
 Borders are also green, rgb(2, 73, 37). They give a good sense of where the different sections are on the main page.
 
