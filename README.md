@@ -369,11 +369,17 @@ Found during manual testing. The header is too close to the hero image.
 
 ### Unfixed bugs
 
+I have not found any bugs that I was unable to issue a fix for.
+
 ### Fixed bugs
 
 Bug 1 has been patched, and element now has rounded corners.
 
 ![Bug 1](documentation/screenshots/bug-1-fixed.png)
+
+Bug 2 has been patched, and hero image now has more space towards the header.
+
+![Bug 2](documentation/screenshots/bug-2-fixed.png)
 
 ## Credits
 
