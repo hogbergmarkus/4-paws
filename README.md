@@ -36,7 +36,7 @@ The website is also useful for both dog and cat owners, who need help relocating
       - [Hero image](#hero-image)
       - [Navigation bar](#navigation-bar)
       - [Footprints image](#footprints-image)
-      - [Responsive links on larger screens](#responsive-links-on-larger-screens)
+      - [Responsive links and form elements on larger screens](#responsive-links-and-form-elements-on-larger-screens)
       - [Links on the page](#links-on-the-page)
       - [Cats \& Dogs page](#cats--dogs-page)
       - [Applications page](#applications-page)
@@ -171,12 +171,14 @@ All text was written by myself.
 
 ![Footprints screenshot 2](documentation/screenshots/footprint-2-screenshot.png)
 
-#### Responsive links on larger screens
+#### Responsive links and form elements on larger screens
 
-- A hover effect is added to link elements on larger screens, where you will use a mouse for navigation.
-- This helps users visually to understand that they are hovering a link.
+- A hover effect is added to link and input elements on larger screens, where you will use a mouse for navigation.
+- This helps users visually to understand that they are hovering something they can interact with.
 
-![Hover effect](documentation/screenshots/link-hover-screenshot.png)
+![Hover effect 1](documentation/screenshots/hover-screenshot-1.png)
+
+![Hover effect 2](documentation/screenshots/hover-screenshot-2.png)
 
 #### Links on the page
 
@@ -190,27 +192,25 @@ All text was written by myself.
 - This is the page where users can view what animals are available for adoption.
 - It is important that the user gets a good experience on this page, no matter device, since we want them to stay, and the page is highly responsove as it should.
 
-![Animals on mobile view](documentation/screenshots/animals-mobile-screenshot.png)
+![Animals on mobile view](documentation/screenshots/animal-mobile-screenshot.png)
 
-![Animals on tablet view](documentation/screenshots/animals-tablet-screenshot.png)
+![Animals on tablet view](documentation/screenshots/animal-tablet-screenshot.png)
 
-![Animals on desktop view](documentation/screenshots/animals-large-screenshot.png)
+![Animals on desktop view](documentation/screenshots/animal-large-screenshot.png)
 
-![Animals on wide view](documentation/screenshots/animals-wide-screenshot.png)
+![Animals on wide view](documentation/screenshots/animal-wide-screenshot.png)
 
 #### Applications page
 
 - This page contains an applications form, which is important to the users that want to adopt a pet, or get help to relocate their own pet.
 
-- The page has responsive elements on larger screens to help users visually.
+- Elements have a hover effect on larger screens, to help users visually.
 
 - The form will prompt the user if they missed a field, or did not fill it correctly.
 
 - If all fields are filled correctly, you will get an answer in return with information entered, example shown in this picture:
 
-![Responsive form elements](documentation/screenshots/form-responsive-screenshot.png)
-
-![Missing info in form](documentation/screenshots/form-prompt-screenshot.png)
+![Responsive form elements](documentation/screenshots/form-missing-screenshot.png)
 
 ![Formdump](documentation/screenshots/formdump.png)
 
@@ -220,7 +220,7 @@ All text was written by myself.
 
 - This is useful to users who want to follow 4-paws actively, and see updates on activities.
 
-![Footer screenshot](documentation/screenshots/footer-screenshot.png)
+![Footer screenshot](documentation/screenshots/footer-links-screenshot.png)
 
 ### Features to add inte the future
 
