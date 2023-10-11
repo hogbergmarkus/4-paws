@@ -33,7 +33,7 @@ header {
     z-index: 99;
     width: 100%;
     font-size: 1.2rem;
-    padding: 0 10px 0 10px;
+    padding: 5px 10px 5px 10px;
 }
 
 header a {
@@ -280,7 +280,7 @@ footer {
 
 #social i {
     font-size: 200%;
-    padding: 10px 0;
+    padding: 15px 0;
     color: #ffffff;
 }
 
@@ -415,7 +415,7 @@ footer {
 
     .footprints-section {
         position: fixed;
-        bottom: 52px;
+        bottom: 62px;
         width: 100vw;
     }
 
@@ -468,7 +468,7 @@ footer {
     
     .footprints-section {
         position: fixed;
-        bottom: 52px;
+        bottom: 62px;
         width: 100vw;
     }
     
