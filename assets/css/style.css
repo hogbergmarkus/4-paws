@@ -81,7 +81,7 @@ main {
     flex: 1 0 auto;
     /* This is added to push main content down under fixed header */
     margin-top: 47px;
-    padding-top: 10px;
+    padding-top: 20px;
 }
 
 /* Hero section */
