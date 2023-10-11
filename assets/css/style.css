@@ -155,7 +155,7 @@ main {
 
 .footprints-image {
     min-height: 50px;
-    width: 96%;
+    width: 100%;
     background-size: contain;
     background-image: url('../images/footprints.webp');
     background-position: center;
