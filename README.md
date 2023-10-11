@@ -4,7 +4,7 @@
 
 ## Introduction
 
-[4 Paws](https://hogbergmarkus.github.io/4-paws/) is a fictional website, aiming to mimic a non-profit organisation, with the goal that all cats and dogs should be able to find their forever home.
+[4 Paws](https://hogbergmarkus.github.io/4-paws/) (https://hogbergmarkus.github.io/4-paws/) is a fictional website, aiming to mimic a non-profit organisation, with the goal that all cats and dogs should be able to find their forever home.
 
 The website is primarily aimed at private individuals, who are looking to adopt a cat or dog.
 
@@ -47,6 +47,15 @@ The website is also useful for both dog and cat owners, who need help relocating
     - [Validation](#validation)
     - [Responsiveness](#responsiveness)
     - [Manual testing](#manual-testing)
+      - [Links in navigation bar](#links-in-navigation-bar)
+      - [Links on Home page](#links-on-home-page)
+      - [Links in Footer](#links-in-footer)
+      - [Responsiveness on Home page](#responsiveness-on-home-page)
+      - [Links in header and footer on Cats \& Dogs page](#links-in-header-and-footer-on-cats--dogs-page)
+      - [Responsiveness on Cats \& Dogs page](#responsiveness-on-cats--dogs-page)
+      - [Links in header and footer on Applications page](#links-in-header-and-footer-on-applications-page)
+      - [Responsiveness on Applications page](#responsiveness-on-applications-page)
+      - [Form element on Applications page](#form-element-on-applications-page)
   - [Deployment](#deployment)
   - [Bugs](#bugs)
     - [Unfixed bugs](#unfixed-bugs)
@@ -275,6 +284,59 @@ After deploying the website to GitHub pages, testing was continued on the same d
 - Desktop monitor
 
 ### Manual testing
+
+Manual testing was conducted on deployed website.
+
+#### Links in navigation bar
+
+- The 4-Paws logo links back to Home page, hover works.
+- Home link links back to correct page, hover and under-line works.
+- Cats & Dogs links to correct page, hover and under-line works.
+- Applications links to correct page, hover and under-line works.
+- Hamburger icon on small screens work, and links still go to correct pages.
+- Under-line on active page still works on collapsed menu.
+
+#### Links on Home page
+
+- Hover effect on link in Hero banner works.
+- Link works and goes to Cats & Dogs page.
+- Link in "Want to contribute?" goes to Facebook, hover effect works, opens in new tab.
+
+#### Links in Footer
+
+- Instagram icon goes to Instagram, hover works, opens in new tab.
+- Facebook icon goes to Facebook, hover works, opens in new tab.
+- X (twitter) icon goes to X, hover works, opens in new tab.
+- YouTube icon goes to YouTube, hover works, opens in new tab.
+
+#### Responsiveness on Home page
+
+- Elements scale and move as expected when browser is resized.
+
+#### Links in header and footer on Cats & Dogs page
+
+- All links behave the same here as on Home page.
+
+#### Responsiveness on Cats & Dogs page
+
+- Elements scale and move as expected when browser is resized.
+- Picture size chosen for animal photos works well.
+
+#### Links in header and footer on Applications page
+
+- All links behave the same here as on Home page.
+
+#### Responsiveness on Applications page
+
+- Elements scale and move as expected when browser is resized.
+
+#### Form element on Applications page
+
+- Hover effect works on input elements and submit button.
+- All fields must be filled, if not, the form promps user to fill out missing information.
+- Email field requires @.
+- Text area will start scrolling if filled with text.
+- When all elements are filled correctly, and the "Apply Now" button is used, a page shows with the information filled out.
 
 ## Deployment
 
