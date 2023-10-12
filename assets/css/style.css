@@ -232,6 +232,7 @@ main {
     padding: 10px;
     background-color: rgba(6, 44, 25, 0.8);
     border-radius: 15px;
+    margin-bottom: 10px;
 }
 
 #form label {
