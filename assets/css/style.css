@@ -455,19 +455,21 @@ footer {
 
     .hero-section {
         align-self: flex-end;
-        margin-top: 5rem;
+        /*margin-top: 5rem;*/
+        margin: 5rem 0 150px 0;
     }
 
     .contribute-here {
         align-self: center;
         max-width: 30%;
-        margin-top: 5rem;
+        /*margin-top: 5rem;*/
+        margin: 5rem 0 150px 0;
     }
 
     .about-us {
         align-self: center;
         max-width: 30%;
-        margin: 5rem 3% 0 0;
+        margin: 5rem 3% 150px 0;
     }
     
     .footprints-section {
@@ -482,6 +484,7 @@ footer {
         bottom: 0;
         width: 100vw;
     }
+
     /* Media query animals.html 1500px and larger */
     .animal-div {
         padding-bottom: 20px;
