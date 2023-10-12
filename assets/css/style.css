@@ -14,7 +14,7 @@ h2, h3, h4 {
 /* Body general style */
 body {
     min-height: 100vh;
-    min-width: 100vw;
+    min-width: auto;
     display: flex;
     flex-direction: column;
     color: black;
