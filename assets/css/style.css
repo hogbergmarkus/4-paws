@@ -455,14 +455,12 @@ footer {
 
     .hero-section {
         align-self: flex-end;
-        /*margin-top: 5rem;*/
         margin: 5rem 0 150px 0;
     }
 
     .contribute-here {
         align-self: center;
         max-width: 30%;
-        /*margin-top: 5rem;*/
         margin: 5rem 0 150px 0;
     }
 
