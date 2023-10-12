@@ -285,7 +285,7 @@ After deploying the website to GitHub pages, testing was continued on the same d
 
 ### Manual testing
 
-Manual testing was conducted on deployed website.
+Manual testing was conducted on deployed website. Testing was done on Google Chrome and Safari.
 
 #### Links in navigation bar
 
@@ -386,7 +386,7 @@ Bug 2 has been patched, and hero image now has more space towards the header.
 README.md structure was heavily influnced by siobhanlgorman, and the specific project Sourdough-Bakes
 [siobhanlgorman](https://github.com/siobhanlgorman/Sourdough-Bakes/blob/master/README.md)
 
-Navigation element was created with the help of the Love Running running walkthrough project. I also took inspiration for the footer from [Love Running](https://github.com/hogbergmarkus/Love-Running).
+Navigation element was created with the help of the Love Running running walkthrough project. I also took inspiration for the footer from [Love Running](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main).
 
 Thank you to, David Calikes at Code Institute, for great moral support and encouragement.
 
