@@ -49,7 +49,6 @@ header a {
 .active {
     border-bottom: 1px solid;
 }
-/* THIS PART ABOVE IN PARTICULAR WAS HELPED BY THE CODE FROM LOVE RUNNING */
 
 /* Navbar styles with dropdown toggle */
 nav {
@@ -74,6 +73,8 @@ nav {
 .nav-toggle-label {
     font-size: 2rem;
 }
+
+/* THIS PART ABOVE IN PARTICULAR WAS HELPED BY THE CODE FROM LOVE RUNNING */
 
 /* Main */
 main {
