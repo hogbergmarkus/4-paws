@@ -172,8 +172,8 @@ All text was written by myself.
 
 #### Footprints image
 
-- On the main page is an image of a dogs footprints across the screen, this should provide some enjoyment and a visual break from all the text.
-- On larger screens, the image is placed above the footer instead, this is because it looked out of place in the middle of the screen, on large screens.
+- On the main page, on small screens, is an image of a dogs footprints across the screen, this should provide some enjoyment and a visual break from all the text.
+- On larger screens, the image is placed above the footer instead, this is because it looked out of place in the middle of the screen.
 
 ![Footprints screenshot 1](documentation/screenshots/footprint-1-screenshot.png)
 
@@ -198,7 +198,7 @@ All text was written by myself.
 #### Cats & Dogs page
 
 - This is the page where users can view what animals are available for adoption.
-- It is important that the user gets a good experience on this page, no matter device, since we want them to stay, and the page is highly responsove as it should.
+- It is important that the user gets a good experience on this page, no matter device, since we want them to stay, and the page is highly responsive as it should.
 
 ![Animals on mobile view](documentation/screenshots/animal-mobile-screenshot.png)
 
@@ -263,7 +263,7 @@ JavaScript taken from [Font Awesome](https://fontawesome.com/) is used for the i
 
 [W3C CSS validation service](https://jigsaw.w3.org/css-validator/#validate_by_input) was used multiple times for the CSS code.
 
-Lighthouse in Chrome developer tools was also used to check for problems on multiple occations.
+Lighthouse in Chrome developer tools was also used to check for problems on multiple occasions.
 
 ### Responsiveness
 
@@ -342,14 +342,14 @@ Manual testing was conducted on deployed website. Testing was done on Google Chr
 
 The website was deployed to GitHub pages, using the following steps:
 
-- From my GitHub 4-paws repository I clicked settings
-- On the lefthand side, under code and automation, I clicked Pages
-- Under Build and deployment, I set the source to, Deploy from a branch
-- Under Branch, I selected main and set folder to / (root)
+- From my GitHub 4-paws repository I clicked settings.
+- On the lefthand side, under code and automation, I clicked Pages.
+- Under Build and deployment, I set the source to, Deploy from a branch.
+- Under Branch, I selected main and set folder to / (root).
 - Under Branch I clicked save.
-- On the right side is a tab called Deployments, select Deployments
-- Under active deployments is the link to my website
-- [4-Paws](https://hogbergmarkus.github.io/4-paws/)
+- On the right side is a tab called Deployments, select Deployments.
+- Under active deployments is the link to my website.
+- [4-Paws](https://hogbergmarkus.github.io/4-paws/).
 
 ## Bugs
 
