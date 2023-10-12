@@ -371,7 +371,7 @@ Bug 3:
 
 ![Bug 3](documentation/screenshots/bug-3.png)
 
-Between screen-size width 768px - 1499px, the pictures on the Cats & Dogs page, do not appear the same size.
+From screen width 1499px and down, the pictures on the Cats & Dogs page, do not appear the same size.
 
 They still scale nicely, but do not appear the same exact size.
 
