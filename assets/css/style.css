@@ -485,7 +485,7 @@ footer {
     /* Media query animals.html 1500px and larger */
     .animal-div {
         padding-bottom: 20px;
-        margin: 10px;
+        margin: 10px 10px 72px 10px;
         max-width: 500px;
         height: auto;
         border: 2px solid rgb(2, 73, 37);
