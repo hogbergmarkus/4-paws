@@ -341,7 +341,6 @@ footer {
 }
 
 /* Media query for laptops and larger (992px and larger) */
-/* form.html */
 @media screen and (min-width: 992px) {
     /* index.html 992px and larger */
     .hero-text h2 {
