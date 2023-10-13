@@ -6,7 +6,9 @@
 }
 
 /* General styles */
-h2, h3, h4 {
+h2,
+h3,
+h4 {
     padding-bottom: 10px;
     text-align: center;
 }
@@ -123,7 +125,8 @@ main {
     min-width: 100%;
 }
 
-.hero-text h2, .hero-text h3 {
+.hero-text h2,
+.hero-text h3 {
     background-color: rgba(2, 73, 37, 0.8);
     align-self: stretch;
     text-align: center;
@@ -213,7 +216,8 @@ main {
     text-align: center;
 }
 
-#cat-heading, #dog-heading {
+#cat-heading,
+#dog-heading {
     font-size: 150%;
     padding-top: 20px;
 }
@@ -265,7 +269,7 @@ textarea {
 
 .button {
     font-size: x-large;
-    border: 2px solid ;
+    border: 2px solid;
     background-color: #ffffff;
     color: rgb(2, 73, 37);
     padding: 2px 5px;
@@ -307,7 +311,7 @@ footer {
         display: flex;
     }
 
-    #menu > li {
+    #menu>li {
         padding-left: 2rem;
     }
 
@@ -315,7 +319,9 @@ footer {
         display: none;
     }
 
-    a:hover, #social i:hover, #hero-link:hover h2 {
+    a:hover,
+    #social i:hover,
+    #hero-link:hover h2 {
         color: rgb(229, 139, 12);
     }
 
@@ -332,7 +338,7 @@ footer {
         height: auto;
         border: 2px solid rgb(2, 73, 37);
     }
-    
+
     .animal-img {
         max-width: 100%;
         padding: 10px;
@@ -350,6 +356,7 @@ footer {
 
 /* Media query for laptops and larger (992px and larger) */
 @media screen and (min-width: 992px) {
+
     /* index.html 992px and larger */
     .hero-text h2 {
         padding: 50px 0;
@@ -358,13 +365,13 @@ footer {
 
     /* form.html 992px and larger*/
     #form-background {
-    background-image: url('../images/background-form-large.webp');
-    margin-top: 46px;
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+        background-image: url('../images/background-form-large.webp');
+        margin-top: 46px;
+        background-size: cover;
+        background-position: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
 
     #form {
@@ -378,13 +385,13 @@ footer {
         padding: 10px;
         background-color: rgba(6, 44, 25, 0.8);
     }
-    
+
     #form label {
         max-width: 85%;
         color: #ffffff;
         padding-bottom: 5px;
     }
-    
+
     .input-area {
         max-width: 70%;
         min-height: 30px;
@@ -393,7 +400,7 @@ footer {
         font-size: larger;
         border: 2px solid #f2f6f5;
     }
-    
+
     textarea {
         height: 250px;
         min-width: 85%;
@@ -442,11 +449,11 @@ footer {
         height: auto;
         border: 2px solid rgb(2, 73, 37);
     }
-    
+
     .animal-img {
         width: 100%;
         padding: 10px;
-        }
+    }
 }
 
 /* Media query for desktop and larger screens (1500px and larger) */
@@ -473,13 +480,13 @@ footer {
         max-width: 30%;
         margin: 5rem 3% 150px 0;
     }
-    
+
     .footprints-section {
         position: fixed;
         bottom: 62px;
         width: 100vw;
     }
-    
+
     footer {
         background-color: rgb(2, 73, 37);
         position: fixed;
@@ -495,7 +502,7 @@ footer {
         height: auto;
         border: 2px solid rgb(2, 73, 37);
     }
-    
+
     .animal-img {
         width: 100%;
         height: 350px;
