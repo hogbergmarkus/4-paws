@@ -30,6 +30,10 @@ The website is also useful for both dog and cat owners, who need help relocating
     - [Colors](#colors)
     - [Images](#images)
     - [Text](#text)
+  - [Screenshots of finished project](#screenshots-of-finished-project)
+    - [Main page](#main-page)
+    - [Cats \& Dogs page](#cats--dogs-page)
+    - [Applications page](#applications-page)
   - [Features](#features)
     - [Existing features](#existing-features)
       - [Hero image](#hero-image)
@@ -37,8 +41,8 @@ The website is also useful for both dog and cat owners, who need help relocating
       - [Footprints image](#footprints-image)
       - [Responsive links and form elements on larger screens](#responsive-links-and-form-elements-on-larger-screens)
       - [Links on the page](#links-on-the-page)
-      - [Cats \& Dogs page](#cats--dogs-page)
-      - [Applications page](#applications-page)
+      - [Cats \& Dogs page](#cats--dogs-page-1)
+      - [Applications page](#applications-page-1)
       - [Footer](#footer)
     - [Features to add inte the future](#features-to-add-inte-the-future)
   - [Languages](#languages)
@@ -145,6 +149,20 @@ They were optimized using the compressor tool on [Shortpixel.com](https://shortp
 ### Text
 
 All text was written by myself.
+
+## Screenshots of finished project
+
+### Main page
+
+![Main page](documentation/screenshots/finished-main-screenshot.png)
+
+### Cats & Dogs page
+
+![Cats & Dogs](documentation/screenshots/finished-animals-screenshot.png)
+
+### Applications page
+
+![Applications](documentation/screenshots/finished-form-screenshot.png)
 
 ## Features
 
