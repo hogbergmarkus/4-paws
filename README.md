@@ -277,11 +277,23 @@ JavaScript taken from [Font Awesome](https://fontawesome.com/) is used for the i
 
 ### Validation
 
-[W3C Markup valitadion service](https://validator.w3.org/#validate_by_input) was used multiple times for the HTML code.
+[W3C Markup valitadion service](https://validator.w3.org/#validate_by_input) was used multiple times for the HTML code. No errors or warnings shown.
 
-[W3C CSS validation service](https://jigsaw.w3.org/css-validator/#validate_by_input) was used multiple times for the CSS code.
+[W3C CSS validation service (jigsaw)](https://jigsaw.w3.org/css-validator/#validate_by_input) was used multiple times for the CSS code. No errors or warnings shown.
 
 Lighthouse in Chrome developer tools was also used to check for problems on multiple occasions.
+
+Lighthouse report for main page:
+
+![Lighthouse main page](documentation/screenshots/lighthouse-main-screenshot.png)
+
+Lighthouse report for Cats & Dogs page:
+
+![Lighthouse animals](documentation/screenshots/lighthouse-animals-screenshot.png)
+
+Lighthouse report for Application page:
+
+![Lighthouse applications](documentation/screenshots/lighthouse-form-screenshot.png)
 
 ### Responsiveness
 
