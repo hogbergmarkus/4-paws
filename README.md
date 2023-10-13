@@ -175,7 +175,7 @@ All text was written by myself.
 - On the main page, on small screens, is an image of a dogs footprints across the screen, this should provide some enjoyment and a visual break from all the text.
 - On larger screens, the image is placed above the footer instead, this is because it looked out of place in the middle of the screen.
 
-![Footprints screenshot 1](documentation/screenshots/footprint-1-screenshot.png)
+![Footprints screenshot 1](documentation/screenshots/footprint-screenshot.png)
 
 ![Footprints screenshot 2](documentation/screenshots/footprint-2-screenshot.png)
 
@@ -184,7 +184,7 @@ All text was written by myself.
 - A hover effect is added to link and input elements on larger screens, where you will use a mouse for navigation.
 - This helps users visually to understand that they are hovering something they can interact with.
 
-![Hover effect 1](documentation/screenshots/hover-screenshot-1.png)
+![Hover effect 1](documentation/screenshots/hover-screenshot.png)
 
 ![Hover effect 2](documentation/screenshots/hover-screenshot-2.png)
 
