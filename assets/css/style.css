@@ -148,6 +148,10 @@ main {
     padding: 10px 5px;
 }
 
+.contribute a {
+    color: rgb(2, 73, 37);
+}
+
 /* Footprints image */
 .footprints {
     display: flex;
